@@ -51,7 +51,7 @@ export default function MemoDetailScreen() {
           corporis. Reprehenderit.
         </Text>
       </ScrollView>
-      <CircleButton style={{ top: 160, bottom: "auto" }}>+</CircleButton>
+      <CircleButton name="edit" style={{ top: 160, bottom: "auto" }} />
     </View>
   );
 }

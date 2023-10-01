@@ -18,6 +18,7 @@
     "react/react-in-jsx-scope": "off",
     "linebreak-style": "off",
     "react/jsx-one-expression-per-line": "off",
-    "react/jsx-closing-tag-location": "off"
+    "react/jsx-closing-tag-location": "off",
+    "object-curly-newline": "off"
   }
 }
